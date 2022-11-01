@@ -1,1 +1,1 @@
-###################################
+Removed the hashes and added some writeups
